@@ -1,5 +1,5 @@
 # Soon Money - Secure Desktop Wallet
-![Soon Money Dashboard]([https://example.com/soon_money_logo.png](https://i.ibb.co/4KSJXVY/Screenshot-65.png))
+![Soon Money Dashboard](https://i.ibb.co/4KSJXVY/Screenshot-65.png)](https://i.ibb.co/4KSJXVY/Screenshot-65.png)
 
 Welcome to Soon Money, your trusted desktop secure wallet for seamless P2P transactions with the lowest transaction fees in the market. With Soon Money, you can withdraw funds using various payout methods globally. Stay tuned for upcoming features like Investment and Exchange, making Soon Money your all-in-one financial companion.
 
